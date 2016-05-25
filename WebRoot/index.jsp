@@ -33,6 +33,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<img border="0" src="./images/tu.png" alt="Pulpit rock" width="304" height="228">
 		</p>
 		<br>
-		<a href="./index.jsp">重新登录</a>
+		<a href="./index.jsp">重新登录123</a>
   </body>
 </html>
