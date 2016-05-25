@@ -13,7 +13,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
 	<meta http-equiv="expires" content="0">    
-	<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+	<meta http-equiv="keywords" content="keyword1,keywrd2,keyword3">
 	<meta http-equiv="description" content="This is my page">
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
@@ -33,6 +33,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			<img border="0" src="./images/tu.png" alt="Pulpit rock" width="304" height="228">
 		</p>
 		<br>
-		<a href="./index.jsp">重新登录-夏骏</a>
+		<a href="./index.jsp">重新登录</a>
   </body>
 </html>
